@@ -1,0 +1,12 @@
+{
+  "company" : "VLInfosys",
+  "department" : "Academy",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "iniciando-hop",
+  "config" : {
+    "variables" : [ ]
+  }
+}
